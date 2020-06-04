@@ -1,0 +1,39 @@
+body{
+	width: 100%;
+}
+#container1{
+	background-color: cyan;
+	text-align:center;
+	margin: 50px;
+	text-transform:  
+}
+#header {
+	text-align: center;
+	font-family: "Lucida Sans Unicode";
+	
+}
+
+#img-div {
+	margin:auto;
+	text-align: center;
+	font-weight: 15px;
+	font-family: sans-serif;
+}
+#tribute-info { 
+	font-size: 15px;
+	margin:auto;
+	width:550px;
+	line-height: 35px;
+}
+#container {
+	background-color: silver;
+}
+#footer {
+	margin: 10px;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font-size: 25px;
+}
+a:hover{
+	color:black;
+}
